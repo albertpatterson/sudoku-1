@@ -1,0 +1,28 @@
+{
+  "files": {
+    "get_sudoku.py": [
+      {
+        "id": "a9f4a347-cc64-4f88-93b1-124882383e84",
+        "line": 20,
+        "version": 751,
+        "index": 482
+      }
+    ],
+    "sudoku.py": [
+      {
+        "id": "dca6fd7b-afac-49e3-9ca6-d60ada477e6c",
+        "line": 96,
+        "version": 3329,
+        "index": 2126
+      }
+    ],
+    "test_get_sudoku.py": [
+      {
+        "id": "71a81604-8576-4328-b7ec-b4e1c1b7a1ae",
+        "line": 38,
+        "version": 676,
+        "index": 1180
+      }
+    ]
+  }
+}
