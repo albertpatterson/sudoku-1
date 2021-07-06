@@ -1,4 +1,8 @@
-import get_sudoku
+import sys
+sys.path.append("..")
+
+import data.translation as translation
+
 from testing.utils import compareArrays
 
 def getTestSquares1():
@@ -62,7 +66,7 @@ def test_translateBoard_1():
     [[8],  [],  [], [6], [1],  [],  [], [7],  []],
   ]
 
-  actual = get_sudoku.translateBoard(json)
+  actual = translation.translateBoard(json)
 
   assert len(actual) == 9
 

@@ -1,7 +1,10 @@
-from get_sudoku import getBoard
-import json
-getBoard()
+from data.data import getBoards
+# from data.populate_data import addNewBoardData
+import solver.solver as solver 
 
-# data = json.dumps({'data': 111})
-# print(data)
-# print(data[0:3])
+# addNewBoardData()
+
+allBoards = getBoards()
+board = allBoards[0]
+stepped = solver.stepBoard(board)
+print(stepped)
