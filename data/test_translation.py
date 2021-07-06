@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 import data.translation as translation
 
 from testing.utils import compareArrays

@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 import solver.solver as solver
 from testing.utils import compareArrays
 

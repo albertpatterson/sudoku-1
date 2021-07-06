@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 import data.storage as storage
 import data.translation as translation
 

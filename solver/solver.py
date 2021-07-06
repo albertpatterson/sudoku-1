@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 from itertools import chain
 import neighbors.neighbors as neighbors
 

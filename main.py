@@ -1,5 +1,5 @@
 from data.data import getBoards
-# from data.populate_data import addNewBoardData
+from data.populate_data import addNewBoardData
 import solver.solver as solver 
 
 # addNewBoardData()

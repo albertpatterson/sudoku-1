@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 from testing.utils import compareArrays
 import neighbors.neighbors as neighbors
 

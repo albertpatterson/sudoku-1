@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 import data.fetch as fetch
 import data.storage as storage
 
