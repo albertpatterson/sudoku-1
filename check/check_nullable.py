@@ -14,11 +14,11 @@ def checkCells(board, cells):
   return True
 
 def checkColumn(board, col):
-  cells = neighbors.getColumnNeighbors(col, 0)
+  cells = neighbors.getColumnNeighbors(col, 0, True)
   return checkCells(board, cells)
 
 def checkRow(board, row):
-  cells = neighbors.getRowNeighbors(0, row)
+  cells = neighbors.getRowNeighbors(0, row, True)
   return checkCells(board, cells)
 
 

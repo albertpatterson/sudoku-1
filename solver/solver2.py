@@ -5,8 +5,10 @@ from solver.prepare import prepareBoard
 
 def solveFromCell(board, scalarBoard, col, row):
 
-  if col==0 and row==8:
-    print(col, row)
+  # print(col, row)
+
+  # if col==0 and row==8:
+  #   print(col, row)
 
   values = board[row][col]
   (nextCol, nextRow) = utils.getNextCell(col, row)

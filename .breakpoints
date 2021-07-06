@@ -1,5 +1,19 @@
 {
   "files": {
+    "check/check_nullable.py": [
+      {
+        "id": "ac94fefb-5e17-456b-96d9-70f9f0ed56f8",
+        "line": 8,
+        "version": 129,
+        "index": 148
+      },
+      {
+        "id": "d8cdd02f-1026-4d49-b45c-1c4e02a48b9c",
+        "line": 17,
+        "version": 129,
+        "index": 283
+      }
+    ],
     "get_sudoku.py": [
       {
         "id": "a9f4a347-cc64-4f88-93b1-124882383e84",
@@ -11,9 +25,45 @@
     "solver/solver2.py": [
       {
         "id": "34ad36f4-213b-4772-bb62-a2f88ee4b624",
-        "line": 9,
-        "version": 685,
-        "index": 186
+        "line": 11,
+        "version": 689,
+        "index": 207
+      },
+      {
+        "id": "5a429aeb-9116-4978-9b98-c87cea7dcddd",
+        "line": 17,
+        "version": 689,
+        "index": 334
+      },
+      {
+        "id": "aef97bce-c2ac-47b5-8c4e-35a47cdd3174",
+        "line": 19,
+        "version": 689,
+        "index": 369
+      },
+      {
+        "id": "2415b996-b582-4888-bef4-b87c0e0336cf",
+        "line": 20,
+        "version": 689,
+        "index": 422
+      },
+      {
+        "id": "b93f837f-1319-4883-98df-e70dcb4ef31a",
+        "line": 23,
+        "version": 689,
+        "index": 468
+      },
+      {
+        "id": "ace30e67-93cb-4c6a-b81f-01a751a65963",
+        "line": 26,
+        "version": 689,
+        "index": 547
+      },
+      {
+        "id": "9be80cbc-78e1-4630-a4db-e70560be9096",
+        "line": 29,
+        "version": 689,
+        "index": 593
       }
     ],
     "sudoku.py": [
