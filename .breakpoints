@@ -1,25 +1,19 @@
 {
   "files": {
-    "check/check.py": [
-      {
-        "id": "7733a5c2-c0c6-4871-9b08-0085b05eb2a6",
-        "line": 18,
-        "version": 1204,
-        "index": 303
-      },
-      {
-        "id": "05091945-ed92-4777-88c4-1604ad0aa44a",
-        "line": 21,
-        "version": 1204,
-        "index": 392
-      }
-    ],
     "get_sudoku.py": [
       {
         "id": "a9f4a347-cc64-4f88-93b1-124882383e84",
         "line": 20,
         "version": 751,
         "index": 482
+      }
+    ],
+    "solver/solver2.py": [
+      {
+        "id": "34ad36f4-213b-4772-bb62-a2f88ee4b624",
+        "line": 9,
+        "version": 685,
+        "index": 186
       }
     ],
     "sudoku.py": [
