@@ -7,10 +7,10 @@ import utils.utils as utils
 
 import time
 
-# addNewBoardData()
+addNewBoardData()
 
 allBoards = getBoards()
-board = allBoards[9]
+board = allBoards[-1]
 utils.printBoard(utils.toScalarBoard(board))
 tic = time.perf_counter()
 (solved, sol) = solver2.solveBoard(board)
